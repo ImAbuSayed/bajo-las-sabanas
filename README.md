@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bajo-las-sabanas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Bajo las sábanas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-las-sabanas/) |
+| **Get License** | [Music Rights & Licensing for Bajo las sábanas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bajo-las-sabanas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f254222cf1eea466487dd83ffd9f5a10c9e3f5fdb083edc6273016432a12be61` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

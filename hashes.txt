@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bajo las sábanas
+
+This log tracks the cryptographic history and versioning for the song **Bajo las sábanas** (bajo-las-sabanas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T22:01:56.341940 | `v1` | `f254222cf1eea466487dd83ffd9f5a10c9e3f5fdb083edc6273016432a12be61` | `4c530e9ec088a8b061336ae6665305650e772fa35ede196d65c1d259dad716c0` | `2026-06-15_bajo-las-sabanas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
