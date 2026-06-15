@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bajo las sábanas se esconde nuestro secreto
+> Tocando tu piel, te juro, es el cielo completo
+> Baby, you're the one, la dueña de mi cama
+> Con ese movimiento que a mi cuerpo enciende y llama
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
